@@ -18,6 +18,8 @@
 			<string>Retry</string>
 			<key>translations</key>
 			<dict>
+				<key>en</key>
+				<string>Retry</string>
 				<key>pt</key>
 				<string>Reiniciar</string>
 			</dict>
