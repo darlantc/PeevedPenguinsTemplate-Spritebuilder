@@ -592,8 +592,8 @@
 									<real>45.109375</real>
 								</array>
 								<array>
-									<real>830.8515625</real>
-									<real>-60.66015625</real>
+									<real>960.37109375</real>
+									<real>50.6328125</real>
 								</array>
 								<array>
 									<real>960</real>
@@ -604,19 +604,19 @@
 							<array>
 								<array>
 									<array>
+										<real>960</real>
+										<real>0.0</real>
+									</array>
+									<array>
+										<real>960.37109375</real>
+										<real>50.6328125</real>
+									</array>
+									<array>
 										<real>-0.3671875</real>
 										<real>45.109375</real>
 									</array>
 									<array>
 										<real>0.0</real>
-										<real>0.0</real>
-									</array>
-									<array>
-										<real>830.8515625</real>
-										<real>-60.66015625</real>
-									</array>
-									<array>
-										<real>960</real>
 										<real>0.0</real>
 									</array>
 								</array>
