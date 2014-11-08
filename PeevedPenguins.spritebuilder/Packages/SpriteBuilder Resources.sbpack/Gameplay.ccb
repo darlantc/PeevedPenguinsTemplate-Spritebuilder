@@ -244,7 +244,7 @@
 						<key>value</key>
 						<array>
 							<string>Retry</string>
-							<true/>
+							<false/>
 						</array>
 					</dict>
 					<dict>
