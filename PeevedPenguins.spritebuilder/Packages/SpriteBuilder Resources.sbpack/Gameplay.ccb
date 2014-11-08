@@ -164,8 +164,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>237.6640625</real>
-						<real>290.2578125</real>
+						<real>236.6640625</real>
+						<real>280.2578125</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -267,8 +267,6 @@
 					<real>500</real>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -1029,8 +1027,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>244</real>
-											<real>309</real>
+											<real>243</real>
+											<real>299</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -1074,6 +1072,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
