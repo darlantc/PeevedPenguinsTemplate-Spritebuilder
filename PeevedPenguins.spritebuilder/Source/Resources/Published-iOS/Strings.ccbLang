@@ -5,12 +5,23 @@
 	<key>activeLanguages</key>
 	<array>
 		<string>en</string>
+		<string>pt</string>
 	</array>
 	<key>fileType</key>
 	<string>SpriteBuilderTranslations</string>
 	<key>fileVersion</key>
 	<integer>1</integer>
 	<key>translations</key>
-	<array/>
+	<array>
+		<dict>
+			<key>key</key>
+			<string>Retry</string>
+			<key>translations</key>
+			<dict>
+				<key>pt</key>
+				<string>Reiniciar</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
